@@ -31,11 +31,11 @@ pip install vosk numpy
 ```bash
 mkdir -p ~/vosk_models && cd ~/vosk_models
 
-wget https://alphacephei.com/vosk/models/vosk-model-small-es-0.42.zip
+wget https://alphacephei.com/vosk/models/vosk-model-small-en-us-0.15.zip
 
-unzip vosk-model-small-es-0.42.zip
+unzip vosk-model-small-en-us-0.15.zip
 
-mv vosk-model-small-es-0.42 model-es
+mv vosk-model-small-en-us-0.15 model-en
 ```
 
 ## Step 7: Install PortAudio on Debian
