@@ -1,5 +1,7 @@
 # Crear una aplicación gráfica que de feedback al usuario cuando utilice el reconocimiento de voz para crear un carpeta
 
+Si quieres aprender a utilizar Vosk para crear aplicaciones gráficas que te permitan llevar a cabo más acciones, a parte de crear una carpeta por voz, consulta el siguiente archivo [005-mas-acciones-app.md](https://github.com/verybboy/EcoEco-Accessible-OS/blob/main/virtual-environment-vosk/tutorial-ES/005-mas-acciones-app.md)
+
 ## PASO 1: Instalar las dependencias necesarias en nuestro Debian
 
 Ejecuta el siguiente comando en tu terminal para instalar las bibliotecas requeridas en Debian:

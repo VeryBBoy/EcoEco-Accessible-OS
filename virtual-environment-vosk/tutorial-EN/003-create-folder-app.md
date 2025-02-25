@@ -1,5 +1,7 @@
 # Create a Graphical Application That Provides Feedback to the User When Using Voice Recognition to Create a Folder
 
+If you want to learn how to use Vosk to create graphical applications that allow you to perform more actions, besides creating a folder by voice, check out the following file: [005-more-actions-app.md](https://github.com/verybboy/EcoEco-Accessible-OS/blob/main/virtual-environment-vosk/tutorial-EN/005-more-actions-app.md)
+
 ## STEP 1: Install the Necessary Dependencies on Debian
 
 Run the following command in your terminal to install the required libraries on Debian:
