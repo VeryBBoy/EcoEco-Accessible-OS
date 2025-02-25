@@ -54,7 +54,7 @@ Install PortAudio in the operating system:
 sudo apt install portaudio19-dev -y
 ```
 
-## Step 8: Install sounddevice in the virtual environment
+## Step 8: Install Sounddevice in the virtual environment
 
 Activate the virtual environment:
 
@@ -62,7 +62,7 @@ Activate the virtual environment:
 source ~/vosk_env/bin/activate
 ```
 
-Reinstall **sounddevice**:
+Install **Sounddevice**:
 
 ```bash
 pip install sounddevice

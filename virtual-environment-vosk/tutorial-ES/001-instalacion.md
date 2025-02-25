@@ -54,7 +54,7 @@ Instalamos PortAudio en nuestro SO
 sudo apt install portaudio19-dev -y
 ```
 
-## Paso 8: Instalamos sounddevice en nuestro entorno virtual
+## Paso 8: Instalamos Sounddevice en nuestro entorno virtual
 
 Activamos nuestro entorno virtual
 
@@ -62,7 +62,7 @@ Activamos nuestro entorno virtual
 source ~/vosk_env/bin/activate
 ```
 
-Reinstalamos **sounddevide**
+Instalamos **sounddevide**
 
 ```bash
 pip install sounddevice
