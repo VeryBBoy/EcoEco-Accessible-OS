@@ -42,13 +42,13 @@ mv vosk-model-small-es-0.42 model-es
 
 PortAudio es una biblioteca que maneja el audio en **sounddevide**
 
-Salimos de nuestro entorno virtual
+Salimos de nuestro entorno virtual:
 
 ```bash
 deactivate
 ```
 
-Instalamos PortAudio en nuestro SO
+Instalamos PortAudio en nuestro SO:
 
 ```bash
 sudo apt install portaudio19-dev -y
@@ -56,19 +56,19 @@ sudo apt install portaudio19-dev -y
 
 ## Paso 8: Instalamos Sounddevice en nuestro entorno virtual
 
-Activamos nuestro entorno virtual
+Activamos nuestro entorno virtual:
 
 ```bash
 source ~/vosk_env/bin/activate
 ```
 
-Instalamos **sounddevide**
+Instalamos **sounddevide**:
 
 ```bash
 pip install sounddevice
 ```
 
-Verificamos la instalación de sounddevice
+Verificamos la instalación de sounddevice:
 
 ```bash
 python3 -c "import sounddevice as sd; print(sd.query_devices())"
@@ -82,7 +82,7 @@ Si muestra una lista de dispositivos de audio, significa que PortAudio ya está 
 
 Descarga el archivo [test_vosk.py](https://github.com/verybboy/EcoEco-Accessible-OS/blob/main/virtual-environment-vosk/tutorial-ES/scripts/test_vosk.py)
 
-Ejecutamos el scrypt
+Ejecutamos el scrypt:
 
 ```bash
 python3 ~/test_vosk.py
