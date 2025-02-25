@@ -24,7 +24,7 @@ pip install PyQt6
 
 ## PASO 3: Descargamos el script que nos permite correr nuestra aplicación y con la función de poder crear un carpeta por voz
 
-Descarga el archivo 
+Descarga el archivo [voice_folder_creator_app.py](https://github.com/verybboy/EcoEco-Accessible-OS/blob/main/virtual-environment-vosk/tutorial-ES/scripts/voice_folder_creator_app.py)
 
 Ejecuta la aplicación
 
