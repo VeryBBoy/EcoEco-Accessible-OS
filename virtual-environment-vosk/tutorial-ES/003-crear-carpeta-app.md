@@ -1,4 +1,4 @@
-# Tutorial para crear una aplicación gráfica que de feedback al usuario cuando utilice el reconocimiento de voz
+# Crear una aplicación gráfica que de feedback al usuario cuando utilice el reconocimiento de voz para crear un carpeta
 
 ## PASO 1: Instalar las dependencias necesarias en nuestro Debian
 
@@ -33,3 +33,5 @@ python voice_folder_creator_app.py
 ```
 
 ## Ejemplos de salida
+
+![Salida voice_folder_creator_app.py](../images/image_003.png)
