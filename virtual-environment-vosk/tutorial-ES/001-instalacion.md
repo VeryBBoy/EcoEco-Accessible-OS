@@ -78,7 +78,7 @@ Si muestra una lista de dispositivos de audio, significa que PortAudio ya está 
 
 ## Paso 6: Creamos un script para hacer una prueba de reconocimiento de voz
 
-Descarga el archivo [test_vosk.py](https://github.com/VeryBBoy/EcoEco-Accessible-OS/blob/main/Virtual%20environment%20Vosk/scripts/test_vosk.py)
+Descarga el archivo [test_vosk.py](https://github.com/verybboy/EcoEco-Accessible-OS/blob/main/virtual-environment-vosk/tutorial-ES/scripts/test_vosk.py)
 
 Ejecutamos el scrypt
 

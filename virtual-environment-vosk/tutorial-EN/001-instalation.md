@@ -78,7 +78,7 @@ If it displays a list of audio devices, it means that PortAudio is already worki
 
 ## Step 6: Create a script to test voice recognition
 
-Download the file [test_vosk.py](https://github.com/VeryBBoy/EcoEco-Accessible-OS/blob/main/Virtual%20environment%20Vosk/scripts/test_vosk.py)
+Download the file [test_vosk.py](https://github.com/verybboy/EcoEco-Accessible-OS/blob/main/virtual-environment-vosk/tutorial-EN/scripts/test_vosk.py)
 
 Run the script:
 
